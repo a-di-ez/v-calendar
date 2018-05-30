@@ -12,6 +12,8 @@ const locales = {
   'zh-CN': { dow: 2, L: 'YYYY/MM/DD' },
   // Chinese (Taiwan)
   'zh-TW': { L: 'YYYY/MM/DD' },
+  // Hebrew
+  he: { dow: 2, L: 'DD/MM/YYYY' },
   // Croatian
   hr: { dow: 2, L: 'DD.MM.YYYY' },
   // Czech
